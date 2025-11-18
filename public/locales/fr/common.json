@@ -33,7 +33,8 @@
     "noAccount": "Vous n'avez pas de compte?",
     "hasAccount": "Vous avez déjà un compte?",
     "signIn": "Se connecter",
-    "signUp": "S'inscrire"
+    "signUp": "S'inscrire",
+     "cardDesc": "Remplissez les détails pour créer votre nouveau compte"
   },
   "home": {
     "title": "Starter Avancé Next.js 16",

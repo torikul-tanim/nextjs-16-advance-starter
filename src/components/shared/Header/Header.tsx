@@ -16,6 +16,14 @@ export default function Header() {
 
         <nav className="flex items-center gap-6">
           <LanguageSwitcher />
+
+          {/* Login Button */}
+          <Link
+            href="/login"
+            className="px-4 py-2 rounded-md border hover:bg-accent transition-colors"
+          >
+          Login
+          </Link>
         </nav>
       </div>
     </header>
